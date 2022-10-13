@@ -9,24 +9,24 @@ def main():
 
     menu()
     
-    posX = 20
-    posY = 20
+    posX = 0
+    posY = 0
 
     sortir=False
     while not sortir:
         op = input('Entra una opció')
         if op=='d':
             #sumar 1 a la variable posX
-            pass
+            posx=posx++
         elif op=='a':
             #restar 1 a la variable posX
-            pass
+            posx=posx--
         elif op=='w':
             #sumar 1 a la variable posY
-            pass
+            posy=posy++
         elif op=='s':
             #restar 1 a la variable posY
-            pass
+            posy=posy--
         elif op=='0':
             sortir=True
             print("Has sortit de la nau")
