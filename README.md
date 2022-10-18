@@ -1,22 +1,23 @@
 # Joc Nau
 
- El joc permet simular el moviment d'una nau en l'eix de les X i les de les Y.
+El joc permet simular el moviment d'una nau en l'eix de les X i en les de les Y.
 
 ## Menú del joc
 
-![image](https://user-images.githubusercontent.com/98540111/196506569-52505e55-4745-4104-a497-9a9a0c8387a0.png)
+![imagen](https://user-images.githubusercontent.com/102821845/195979425-6ad978e1-555c-4b63-8452-48e187e10f7c.png)
 
-## Requeriments 
+
+## Requeriments
 
 Abans d'executar el joc has de tenir el programa Python.
-El programa Python el pts descarregar de la següent pagina:
+El programa Python el pots descarregar de la següent pàgina:
 
-https://github.com/Coleriqueee/test/edit/main/README.md
+https://www.python.org/downloads/
 
-## Executar joc
+## Executar el joc
 
-Des de la cconsola executa la següent comanda:
+Des de la consola executa la següent comanda:
 
-'''
+```
 python Nau.py
-'''
+```
