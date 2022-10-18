@@ -4,8 +4,19 @@
 
 ## Menú del joc
 
-![image](https://user-images.githubusercontent.com/98540111/196505634-2aa48ba7-959d-42a1-b691-827ef46c20a4.png)
+![image](https://user-images.githubusercontent.com/98540111/196506569-52505e55-4745-4104-a497-9a9a0c8387a0.png)
 
 ## Requeriments 
 
-Lorem ipsum
+Abans d'executar el joc has de tenir el programa Python.
+El programa Python el pts descarregar de la següent pagina:
+
+https://github.com/Coleriqueee/test/edit/main/README.md
+
+## Executar joc
+
+Des de la cconsola executa la següent comanda:
+
+'''
+python Nau.py
+'''
